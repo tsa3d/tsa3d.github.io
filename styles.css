@@ -1,3 +1,6 @@
-body {
-  text-align: center;
+.title{
+  float:left;
+}
+.guide{
+  float:right;
 }

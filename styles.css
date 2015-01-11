@@ -1,9 +1,66 @@
-.title{
-  float:left;
+body { 
+  margin: 0; 
+  background: url("http://www.allvectors.com/wp-content/uploads/2012/06/abstract-white-background.jpg");
 }
-.guide{
-  float:right;
+.nav-bar {
+  border: none;
+  text-align: center;
+  background: rgba(0,0,0,0.3);
 }
-header{
-  background:url(http://static-dc.autodesk.net/content/dam/autodesk/www/homepage/banners/subscription/subscription-fy15-desktop-banner-1240x384.jpg);
+.nav-bar li {
+  color: rgb(255,255,255);
+  display: inline-block;
+  font-family: Lucida Grande;
+  font-size: 1.5em;
+  padding: 10px 30px;
+  border-right: 2px solid #fff;
+}
+.nav-bar li:first-child {
+  border-left: 2px solid #fff;
+}
+.nav-bar ul {
+  margin: 0 auto;
+}
+.intro h1 {
+  color: rgba(70,70,70,1);
+  text-align: center;
+  font-size: 4em;
+  margin: 0.5em 0;
+  text-shadow: 0 1px 8px rgba(0,0,0,0.6);
+}
+.button {
+  display: inline-block;
+}
+
+
+/*Jumbotron CSS*/
+.CAD {
+  background: rgba(255,255,255, 0.8);
+  border: 10px outset rgb(200,230,230);
+}
+
+.types {
+  background: rgba(255,255,255, 0.8);
+  border: 10px outset rgb(200,230,230);
+}
+
+.applications {
+  background: rgba(255,255,255, 0.8);
+  border:10px outset rgb(200,230,230);
+}
+
+.jumbotron {
+  width: 100%;
+  display: flex;
+  display: -webkit-flex;
+  justify-content: space-around;
+  -webkit-justify-content: space-around;
+}
+
+.jumbotron div {
+  display: inline-block;
+  height: 250px;
+  width: 297px;
+  margin: 1em;
+  border-radius:25px;
 }

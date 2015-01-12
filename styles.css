@@ -106,15 +106,15 @@ body {
   font-size: 1.2em;
   color: rgba(70,70,70,1);
 }
-.arrow-down {
-  background-color:#10a2b8;
-  border: 0.5em solid rgb(200,200,200);
-  border-radius:2em;
+.arrow-holder .arrow-down img {
   position: relative;
   bottom: -20px;
 }
 .arrow-holder {
   text-align: center;
+  background-color:#10a2b8;
+  border: 0.5em solid rgb(200,200,200);
+  border-radius:2em;
 }
 .content .explain {
   text-align: left;

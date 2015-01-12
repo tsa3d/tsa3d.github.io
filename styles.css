@@ -82,6 +82,68 @@ body {
   margin: 1em;
   border-radius:25px;
 }
+.jumbotron {
+  margin-bottom: 5em;
+}
 
 
 /*Content CSS*/
+
+.content {
+  background: #fff;
+}
+.content article {
+  max-width: 700px;
+  padding-top: 5em;
+  margin: 0 auto;
+}
+.content p {
+  line-height: 150%;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-family: Lato , Helvetica , sans-serif;
+  font-size: 1.2em;
+  color: rgba(70,70,70,1);
+}
+.arrow-down {
+  position: relative;
+  bottom: -15px;
+}
+.arrow-holder {
+  text-align: center;
+}
+.content .explain {
+  text-align: left;
+}
+.content .button p {
+  font-family: Open Sans, sans-serif;
+  color: #10a2b8;
+  font-weight: 300;
+  font-size: 2em;
+}
+.content .button {
+  heght: 6em;
+  width: 12em;
+  border: 0.1em solid #10a2b8;
+  border-radius: 1em;
+  margin-bottom: 1.5em;
+}
+hr {
+  margin: 5em auto;
+  display: block;
+  color: #455a64;
+  line-height: 1.8;
+  max-width: 600px;
+}
+.content h2 {
+  text-align: center;
+}
+.content .buttonz button {
+  display: inline;
+  margin: 1em;
+}
+.content .buttonz{
+  margin left: auto;
+  margin right: auto;
+}

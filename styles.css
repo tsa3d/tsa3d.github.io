@@ -1,6 +1,11 @@
 body { 
   margin: 0; 
+}
+
+/*header CSS*/
+.header {
   background: url("http://www.allvectors.com/wp-content/uploads/2012/06/abstract-white-background.jpg");
+  background-size: cover;
 }
 .nav-bar {
   border: none;
@@ -77,3 +82,6 @@ body {
   margin: 1em;
   border-radius:25px;
 }
+
+
+/*Content CSS*/

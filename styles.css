@@ -107,8 +107,11 @@ body {
   color: rgba(70,70,70,1);
 }
 .arrow-down {
+  background-color:#10a2b8;
+  border: 0.5em solid rgb(200,200,200);
+  border-radius:2em;
   position: relative;
-  bottom: -15px;
+  bottom: -20px;
 }
 .arrow-holder {
   text-align: center;

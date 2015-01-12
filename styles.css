@@ -5,6 +5,7 @@ body {
 /*header CSS*/
 .header {
   background: url("/background3.jpg");
+  background-size:contain;
 }
 .nav-bar {
   border: none;

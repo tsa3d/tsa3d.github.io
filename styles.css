@@ -54,17 +54,17 @@ body {
 /*Jumbotron CSS*/
 .CAD {
   background: rgba(255,255,255, 0.8);
-  border: 10px outset rgb(200,230,230);
+  border: 10px outset rgb(193,227,255);
 }
 
 .types {
   background: rgba(255,255,255, 0.8);
-  border: 10px outset rgb(200,230,230);
+  border: 10px outset rgb(193,227,255);
 }
 
 .applications {
   background: rgba(255,255,255, 0.8);
-  border:10px outset rgb(200,230,230);
+  border:10px outset rgb(193,227,255);
 }
 
 .jumbotron {
@@ -110,7 +110,7 @@ body {
   text-align:center;
 }
 .placeholder .arrow-down img {
-  height: 3.5em;
+  height: 3.6em;
   width: 4em;
   position: relative;
   bottom: -2em;

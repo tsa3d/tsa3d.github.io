@@ -115,8 +115,8 @@ body {
 .arrow-holder {
   text-align: center;
   background-color:#10a2b8;
-  border: 0.3em solid rgb(200,200,200);
-  border-radius:0.5em;
+  border: 0.2em solid rgb(225,225,225);
+  border-radius:10em;
 }
 .content .explain {
   text-align: left;

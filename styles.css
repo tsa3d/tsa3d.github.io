@@ -106,11 +106,14 @@ body {
   font-size: 1.2em;
   color: rgba(70,70,70,1);
 }
-.arrow-down img {
-  height:3.5em;
-  width: 3.5em;
+.placeholder {
+  text-align:center;
+}
+.placeholder .arrow-down img {
+  height: 4em;
+  width: 4em;
   position: relative;
-  bottom: -25px;
+  bottom: -2em;
   text-align:center;
 }
 .content .explain {

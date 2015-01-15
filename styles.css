@@ -4,13 +4,13 @@ body {
 
 /*header CSS*/
 .header {
-  background: url("/ice bg.jpg");
+  background: url("cool map bg.jpg");
   background-size:contain;
 }
 .nav-bar {
   border: none;
   text-align: center;
-  background: rgba(0,0,0,0.3);
+  background: rgba(225,225,225,0.3);
 }
 .nav-bar li {
   color: rgb(255,255,255);

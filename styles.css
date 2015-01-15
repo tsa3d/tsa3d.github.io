@@ -27,7 +27,7 @@ body {
   margin: 0 auto;
 }
 .intro h1 {
-  color: rgba(70,70,70,1);
+  color: rgba(200,200,200,1);
   text-align: center;
   font-size: 4.5em;
   margin-top: 0.5em;
@@ -45,7 +45,7 @@ body {
   margin-bottom: 2em;
   font-family: Lato , Helvetica , sans-serif;
   font-size: 1.5em;
-  color: rgba(70,70,70,1);
+  color: rgba(200,200,200,1);
    text-shadow: 0 1px 8px rgba(0,0,0,0.5);
   
 }
@@ -110,7 +110,7 @@ body {
   height:2em;
   width: 2em;
   position: relative;
-  bottom: -20px;
+  bottom: -5px;
 }
 .arrow-holder {
   text-align: center;

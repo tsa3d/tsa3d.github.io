@@ -111,6 +111,7 @@ body {
   width: 5em;
   position: relative;
   bottom: -25px;
+  text-align:center;
 }
 .content .explain {
   text-align: left;

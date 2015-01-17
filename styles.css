@@ -40,6 +40,13 @@ body {
   font-weight: 400;
   src: local('Metamorphous'), url(http://fonts.gstatic.com/s/metamorphous/v6/wGqUKXRinIYggz-BTRU9epS3E-kSBmtLoNJPDtbj2Pk.ttf) format('truetype');
 }
+
+@font-face {
+  font-family: 'Coda';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Coda'), local('Coda-Regular'), url(http://fonts.gstatic.com/s/coda/v10/KfdcISySrhNbw8aE3x0EvfesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}
 /*end of title fint*/
 .intro h1 {
   font-weight: 350;
@@ -49,7 +56,7 @@ body {
   margin-top: 1.5em;
   margin-bottom: 0.2em;
   text-shadow:0.05em 0.05em rgba(225,225,225,0.6);
-  font-family: 'Metamorphous','Londrina Shadow', Arial, Verdana;
+  font-family: 'Coda','Metamorphous','Londrina Shadow', Arial, Verdana;
   -webkit-font-smoothing: antialiased;
 }
 .button {

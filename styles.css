@@ -26,6 +26,14 @@ body {
 .nav-bar ul {
   margin: 0 auto;
 }
+/*Title Font*/
+@font-face {
+  font-family: 'Londrina Shadow';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Londrina Shadow'), local('LondrinaShadow-Regular'), url(https://fonts.gstatic.com/s/londrinashadow/v4/dNYuzPS_7eYgXFJBzMoKdcPuLrAUgJsyas9aUtTQArI.ttf) format('truetype');
+}
+/*end of title fint*/
 .intro h1 {
   font-weight: 350;
   color: rgba(200,200,200,1);
@@ -34,7 +42,7 @@ body {
   margin-top: 1.5em;
   margin-bottom: 0.2em;
   text-shadow: 0 1px 8px rgba(0,0,0,0.6);
-  font-family: ,Palatino, Arial, Verdana;
+  font-family: 'Londrina Shadow', cursive, Palatino, Arial, Verdana;
   -webkit-font-smoothing: antialiased;
 }
 .button {

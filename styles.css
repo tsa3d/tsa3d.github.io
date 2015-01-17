@@ -48,7 +48,7 @@ body {
   font-size: 6em;
   margin-top: 1.5em;
   margin-bottom: 0.2em;
-  text-shadow:0.05em 0.05em rgba(0,0,0,0.5);
+  text-shadow:0.05em 0.05em rgba(225,225,225,0.6);
   font-family: 'Metamorphous','Londrina Shadow', Arial, Verdana;
   -webkit-font-smoothing: antialiased;
 }

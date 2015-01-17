@@ -83,9 +83,16 @@
     
       <h2>Are you good at 3D printing?</h2>
       <div class="buttonz">
-        <button>Yes</button>
-        <button>No</button>
-        <script src="interact.js"></script>
+        <button id="yes">Yes</button>
+        <button id="no">No</button>
+        <script>
+          $("#yes").on("click", function() {
+            alert("Clicked!");
+          });
+          $("#no").on("click", function() {
+            alert("Clicked!");
+          });
+        </script>
       </div>
     </div>
   </body>

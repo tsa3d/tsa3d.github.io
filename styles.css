@@ -33,6 +33,13 @@ body {
   font-weight: 400;
   src: local('Londrina Shadow'), local('LondrinaShadow-Regular'), url(https://fonts.gstatic.com/s/londrinashadow/v4/dNYuzPS_7eYgXFJBzMoKdcPuLrAUgJsyas9aUtTQArI.ttf) format('truetype');
 }
+
+@font-face {
+  font-family: 'Metamorphous';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Metamorphous'), url(http://fonts.gstatic.com/s/metamorphous/v6/wGqUKXRinIYggz-BTRU9epS3E-kSBmtLoNJPDtbj2Pk.ttf) format('truetype');
+}
 /*end of title fint*/
 .intro h1 {
   font-weight: 350;
@@ -42,7 +49,7 @@ body {
   margin-top: 1.5em;
   margin-bottom: 0.2em;
   text-shadow: 0 1px 8px rgba(0,0,0,0.6);
-  font-family: 'Londrina Shadow', cursive, Palatino, Arial, Verdana;
+  font-family: 'Metamorphous','Londrina Shadow', Arial, Verdana;
   -webkit-font-smoothing: antialiased;
 }
 .button {

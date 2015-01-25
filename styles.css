@@ -179,14 +179,20 @@ hr {
   text-align: center;
   text-decoration: underline;
   font-weight: 500;
-  font-family: Open Sans;
+  font-family: Garamond;
+  color: rgb(100,100,100);
 }
 .content a img {
   display: inline-block;
   margin: 0 auto;
+  padding: 0 2em;
 }
 .quote2 {
   margin-bottom: 5em;
+}
+.content span {
+  font-size: 0.9em;
+  color: rgba(100,100,100,1);
 }
 footer {
   margin: 0;

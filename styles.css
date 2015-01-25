@@ -78,17 +78,17 @@ body {
 /*Jumbotron CSS*/
 .CAD {
   background: rgba(255,255,255, 0.8);
-  border: 7px solid rgb(150,150,150);
+  border: 8px outset rgb(203,237,265);
 }
 
 .types {
   background: rgba(255,255,255, 0.8);
-  border: 7px solid rgb(203,237,265);
+  border: 8px outset rgb(203,237,265);
 }
 
 .applications {
   background: rgba(255,255,255, 0.8);
-  border:10px outset rgb(225,225,225);
+  border: 8px outset rgb(203,237,265);
 }
 
 .jumbotron {

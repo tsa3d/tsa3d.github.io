@@ -175,3 +175,30 @@ hr {
   margin left: auto;
   margin right: auto;
 }
+.content h1 {
+  text-align: center;
+  text-decoration: underline;
+  font-weight: 500;
+  font-family: Open Sans;
+}
+.content a img {
+  display: inline-block;
+  margin: 0 auto;
+}
+.quote2 {
+  margin-bottom: 5em;
+}
+footer {
+  margin: 0;
+  background: rgb(130,140,150);
+  text-align: center;
+  padding: 1em;
+  border-radius: 0px 0px 1.5em 1.5em;
+  border: 0.3em solid rgb(150,160,170)
+}
+footer p {
+  line-height: 1.3em;
+  color: #FFFFFF;
+  font-family: garamond;
+  text-weight: 300;
+}

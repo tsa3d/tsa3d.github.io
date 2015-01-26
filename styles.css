@@ -104,8 +104,8 @@ body {
 
 .jumbotron div {
   display: inline-block;
-  height: 60em;
-  width: 297px;
+  height: 20em;
+  width: 15em;
   margin: 1em;
   border-radius:25px;
   text-align: center;

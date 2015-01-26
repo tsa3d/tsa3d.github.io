@@ -110,6 +110,18 @@ body {
   margin-bottom: 5em;
 }
 
+.intro .jumbotron .button h2{
+  font-family: Open Sans, sans-serif;
+  color: rgba(90,120,170,1);
+  text-shadow:0.09em 0.05em rgba(0,0,0,0.5);
+  font-weight: 400;
+  font-size: 2em;
+  text-align: left;
+}
+.intro .jumbotron .button img {
+  height: 6em;
+}
+
 
 /*Content CSS*/
 

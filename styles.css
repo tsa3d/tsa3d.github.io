@@ -126,6 +126,8 @@ body {
 .intro .jumbotron .button img {
   background: rgba(225,225,225,0);
   border-radius: 1em;
+  margin: 0;
+  padding: 0;
 }
 
 

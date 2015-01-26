@@ -23,6 +23,9 @@ body {
 .nav-bar li:first-child {
   border-left: 2px solid #fff;
 }
+.nav-bar li a {
+  text-decoration: none;
+}
 .nav-bar ul {
   margin: 0 auto;
 }

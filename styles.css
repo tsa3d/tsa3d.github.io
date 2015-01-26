@@ -121,6 +121,10 @@ body {
   font-size: 2em;
   text-align: left;
 }
+.intro .jumbotron .button img {
+  background: rgba(0,0,0,0.7);
+  border-radius: 1em;
+}
 
 
 /*Content CSS*/

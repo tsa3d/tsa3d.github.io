@@ -121,6 +121,9 @@ body {
   padding-top: 5em;
   margin: 0 auto;
 }
+.content article img {
+  padding-bottom: 3em;
+}
 .content p {
   font-weight: 300;
   line-height: 150%;

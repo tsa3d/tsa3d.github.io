@@ -25,6 +25,7 @@ body {
 }
 .nav-bar li a {
   text-decoration: none;
+  color: rgb(255,255,255);
 }
 .nav-bar ul {
   margin: 0 auto;

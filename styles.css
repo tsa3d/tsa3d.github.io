@@ -244,6 +244,15 @@ footer p {
 }
 button {
   color: white;
-  background: blue;
   border-radius: 5px;
+}
+.blue {
+  background: blue;
+}
+.red {
+  background: red;
+}
+.yesno {
+  text-align: center;
+  margin: 0 auto;
 }

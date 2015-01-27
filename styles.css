@@ -242,3 +242,8 @@ footer p {
   font-family: garamond;
   text-weight: 300;
 }
+button {
+  color: white;
+  background: blue;
+  border-radius: 5px;
+}

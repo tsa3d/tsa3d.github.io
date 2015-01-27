@@ -242,10 +242,12 @@ footer p {
   font-family: garamond;
   text-weight: 300;
 }
-.content button:first-child {
+.content button {
   color: white;
   border-radius: 5px;
-  padding-right: 5em;
+}
+.content button:first-child {
+  margin-right: 5em;
 }
 .blue {
   background: blue;

@@ -81,17 +81,17 @@ body {
 
 /*Jumbotron CSS*/
 .CAD {
-  background: rgba(255,255,255, 0.7);
+  background: rgba(255,255,255, 0.6);
   border: 8px outset rgb(203,237,265);
 }
 
 .types {
-  background: rgba(255,255,255, 0.7);
+  background: rgba(255,255,255, 0.6);
   border: 8px outset rgb(203,237,265);
 }
 
 .applications {
-  background: rgba(255,255,255, 0.7);
+  background: rgba(255,255,255, 0.6);
   border: 8px outset rgb(203,237,265);
 }
 

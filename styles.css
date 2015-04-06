@@ -32,17 +32,17 @@ body {
 }
 #nav-tsa:hover {
   background: white;
-  border: white;
+  border-left,right: 2px solid white;
   color: #08298A;
 }
 #nav-home:hover {
   background: white;
-  border: white;
+  border-left,right: 2px solid white;
   color: #08298A;
 }
 #nav-des:hover {
   background: white;
-  border: white;
+  border-left,right: 2px solid white;
   color: #08298A;
 }
 

@@ -30,6 +30,16 @@ body {
 .nav-bar ul {
   margin: 0 auto;
 }
+#nav-tsa:hover {
+  background: white;
+}
+#nav-home:hover {
+  background: white;
+}
+#nav-des:hover {
+  background: white;
+}
+
 /*Title Font*/
 @font-face {
   font-family: 'Londrina Shadow';

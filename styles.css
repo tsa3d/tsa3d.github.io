@@ -32,12 +32,18 @@ body {
 }
 #nav-tsa:hover {
   background: white;
+  border: white;
+  color: #08298A;
 }
 #nav-home:hover {
   background: white;
+  border: white;
+  color: #08298A;
 }
 #nav-des:hover {
   background: white;
+  border: white;
+  color: #08298A;
 }
 
 /*Title Font*/

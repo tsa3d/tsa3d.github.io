@@ -32,8 +32,6 @@ body {
 }
 #nav-tsa:hover {
   background: white;
-  border-left,right: 2px solid white;
-  color: #08298A;
 }
 #nav-home:hover {
   background: white;
@@ -100,15 +98,24 @@ body {
   background: rgba(255,255,255, 0.6);
   border: 8px outset rgb(203,237,265);
 }
+.CAD:hover {
+  background: white;
+}
 
 .types {
   background: rgba(255,255,255, 0.6);
   border: 8px outset rgb(203,237,265);
 }
+.types:hover {
+  background: white;
+}
 
 .applications {
   background: rgba(255,255,255, 0.6);
   border: 8px outset rgb(203,237,265);
+}
+.applications:hover {
+  background: white;
 }
 
 .jumbotron {

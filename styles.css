@@ -200,6 +200,10 @@ body {
 .content .explain {
   text-align: left;
 }
+.content img {
+  display: block;
+  margin: auto;
+}
 .content .button p {
   font-family: Open Sans, sans-serif;
   color: #10a2b8;

@@ -166,7 +166,7 @@ body {
 }
 .content article img {
   padding-bottom: 2.5em;
-  max-width: 1000px;
+  max-width: none;
   margin: 0 auto;
 }
 .content p {
